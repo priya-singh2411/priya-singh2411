@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-singh2411&label=Views&color=blue&style=plastic" alt="priya-singh2411" /> </p>
 
 <a href="https://www.linkedin.com/in/priyasingh2411/">
-  <img align="left" alt="Priya Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Priya Linkdein" width="22px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1398126453/adu2g57bgen4u9lb1kb1.png" />
 </a>

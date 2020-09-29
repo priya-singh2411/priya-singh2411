@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/priyasingh2411/">
   <img align="left" alt="Priya Linkdein" width="22px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1398126453/adu2g57bgen4u9lb1kb1.png" />
 </a>
+
+<a href="https://medium.com/@priya2411.singh">
+  <img align="left" alt="Priya Medium Blog" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
+</a>
+
+
+

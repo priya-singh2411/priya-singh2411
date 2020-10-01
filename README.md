@@ -26,7 +26,7 @@ Python | Data Science | Machine Learning | Deep Learning | SQL
 <hr />
 </p>
 <details>
-  <summary>ðŸ“Š Github Stats</summary>
+  <summary><b> Github Stats </b></summary>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya-singh2411&show_icons=true&theme=gotham" alt="Priya Singh | Stats" />
 </details>
  <img height="30" src="https://profile-counter.glitch.me/{priya-singh2411}/count.svg" />

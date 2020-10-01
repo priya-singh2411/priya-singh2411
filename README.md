@@ -1,10 +1,6 @@
 # Priya Singh
+Python | Data Science | Machine Learning | Deep Learning | SQL
 
-<!--
-**priya-singh2411/priya-singh2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on  Portfolio
 <!--- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,15 +10,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-singh2411&label=Views&color=blue&style=plastic" alt="priya-singh2411" /> </p>
-
-<a href="https://www.linkedin.com/in/priyasingh2411/">
-  <img align="left" alt="Priya Linkdein" width="22px" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1398126453/adu2g57bgen4u9lb1kb1.png" />
-</a>
-
-<a href="https://medium.com/@priya2411.singh">
-  <img align="left" alt="Priya Medium Blog" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
-</a>
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/priyasingh2411/"> 
+    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@priya2411.singh">
+    <img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/priyasingh7655">
+    <img height="30"  src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+  </a>
+<br />
+<hr />
+</p>
 
 
 

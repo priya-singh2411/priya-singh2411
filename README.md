@@ -1,5 +1,5 @@
 # Priya Singh
-Python | Data Science | Machine Learning | Deep Learning | SQL
+## Python | Data Science | Machine Learning | Deep Learning | SQL
 
 - 🔭 I’m currently working on  Portfolio
 <!--- 🌱 I’m currently learning ...

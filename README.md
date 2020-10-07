@@ -29,7 +29,7 @@
 <hr />
 </p>
 <details>
-  <summary><b> Github Stats </b></summary>
+  <summary>📊<b> Github Stats </b></summary>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya-singh2411&show_icons=true&theme=gotham" alt="Priya Singh | Stats" />
 </details>
  <img height="30" src="https://profile-counter.glitch.me/{priya-singh2411}/count.svg" />

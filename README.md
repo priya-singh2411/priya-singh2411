@@ -1,4 +1,4 @@
-# Priya Singh
+## Hi <span>&#128075;</span> I am Priya! 
 ## Python | Data Science | Machine Learning | Deep Learning | SQL
 
 - 🔭 I’m currently working on  Portfolio

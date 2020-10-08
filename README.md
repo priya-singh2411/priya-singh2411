@@ -28,9 +28,13 @@
 <br />
 <hr />
 </p>
-<details>
-  <summary>📊<b> Github Stats </b></summary>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya-singh2411&show_icons=true&theme=gotham" alt="Priya Singh | Stats" />
+<details open>
+ <summary>📊<b> My Github Stats </b></summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=priya-singh2411&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=priya-singh2411&hide=css,java,html&theme=tokyonight">
+</p>
 </details>
  <img height="30" src="https://profile-counter.glitch.me/{priya-singh2411}/count.svg" />
 

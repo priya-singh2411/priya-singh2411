@@ -4,8 +4,8 @@
 
 - 👩‍💻 Primary coding language: Python.
 - 🔭 I’m currently working, learning and growing my skillset in Data Science, Machine Learning and deep learning. 
-<!-- 🌱 I’m currently learning Machine Learning-->
 - 🤝 Open for collaborations in Data science, Machine Learning and Deep Learning.
+<!-- 🌱 I’m currently learning Machine Learning-->
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

@@ -24,9 +24,9 @@
   <a href="https://www.kaggle.com/priyasingh7655">
     <img height="30"  src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
   </a>
-  <a href="https://priya-singh2411.hashnode.dev/">
+  <!--<a href="https://priya-singh2411.hashnode.dev/">
     <img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />
-  </a>
+  </a>-->
 <br />
 <hr />
 <img height="30" src="https://profile-counter.glitch.me/{priya-singh2411}/count.svg" />

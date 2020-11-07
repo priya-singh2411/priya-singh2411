@@ -1,6 +1,6 @@
 # Hi <span>&#128075;</span> I am Priya! 
 ## Python | Data Science | Machine Learning | Deep Learning | SQL
-<p> I am currently working as a Software Developer who is passionate about stuff like Data Science, Machine Learning and Deep Learning. I am actively looking for opportunities in Data Science.         Recently, I have just started with tech-blogging!</p>
+<p> I am currently working as a Software Developer who is passionate about stuff like Data Science, Machine Learning and Deep Learning. I am actively looking for opportunities in Data Science.         Recently, I have started with tech-blogging!</p>
 
 - 👩‍💻 Primary coding language: Python
 - 🔭 I’m currently working, learning and growing my skillset in Data Science, Machine Learning and deep learning
